@@ -1,0 +1,6 @@
+Flask>=3.0.0
+passlib[bcrypt]==1.7.4
+defusedxml>=0.7.1
+requests>=2.32.0
+bcrypt==3.2.2
+
